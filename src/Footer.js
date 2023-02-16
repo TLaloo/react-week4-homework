@@ -7,7 +7,7 @@ export default function Footer() {
     <div className="Footer">
       <small>
         <a
-          href="https://github.com/TLaloo/Vanilla-Weather-App_TL"
+          href="https://github.com/TLaloo/react-week4-homework"
           target="_blank"
         >
           Open-Source Code
